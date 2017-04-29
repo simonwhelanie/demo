@@ -4,4 +4,4 @@ This is a read me file test
 
 ## new heading
 
-new branch
+this line will cause a conflict
